@@ -1,0 +1,3 @@
+Analyzing of bank account csv exports
+
+To be continued...
